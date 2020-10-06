@@ -58,7 +58,7 @@ The total number of ways `s` can be split in this case would be exactly
 
 With these observations, we can solve the problem based on which of the three cases an input string belongs to.
 
-## Code:
+## Implementations:
 
 The following Java program implements the proposed solution above.
 It counts the number of 1's in `s` (using a variable named `ones`).
